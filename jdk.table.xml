@@ -1,0 +1,141 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (pyblueprint)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/git/pyblueprint/.venv/default/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/install/pycharm-community-2019.3.4/plugins/python-ce/helpers" type="simple" />
+            <root url="file://$USER_HOME$/git/pyblueprint/.venv/default/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pyblueprint/.venv/default/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pyblueprint/.venv/default/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/325344767" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/pyblueprint" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pytconf)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/git/pytconf/.venv/default/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/install/pycharm-community-2020.1/plugins/python-ce/helpers" type="simple" />
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/git/pytconf/.venv/default/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.1/python_stubs/1902830937" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/pytconf" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pymakehelper)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/git/pymakehelper/.venv/default/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/install/pycharm-community-2020.1/plugins/python-ce/helpers" type="simple" />
+            <root url="file://$USER_HOME$/git/pymakehelper/.venv/default/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pymakehelper/.venv/default/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pymakehelper/.venv/default/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.1/python_stubs/-603288821" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/pymakehelper" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pypitools)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/git/pypitools/.venv/default/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/install/pycharm-community-2020.1/plugins/python-ce/helpers" type="simple" />
+            <root url="file://$USER_HOME$/git/pypitools/.venv/default/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pypitools/.venv/default/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/git/pypitools/.venv/default/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.1/python_stubs/-1900395389" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/pypitools" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (default)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/git/pyweblight/.venv/default/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/install/pycharm-community-2020.1/plugins/python-ce/helpers" type="simple" />
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/git/pyweblight/.venv/default/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.1/python_stubs/-1881745406" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
