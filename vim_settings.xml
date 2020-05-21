@@ -8,6 +8,8 @@
         <entry>text</entry>
       </history-search>
       <history-cmd>
+        <entry>0</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -25,6 +27,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -33,6 +38,12 @@
       <file name="/start_script.py" timestamp="1586348387964">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/endpoints/group_default.py" timestamp="1590053404194">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="70" column="10" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/git/pyblueprint/pyblueprint/blueprint.py" timestamp="1586350163948">
         <mark key="'" line="18" column="17" />
         <mark key="[" line="5" column="22" />
@@ -40,11 +51,53 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="16" column="8" />
       </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/facebook.py" timestamp="1590053378803">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/vk.py" timestamp="1590053569564">
+        <mark key="[" line="100" column="36" />
+        <mark key="]" line="100" column="42" />
+        <mark key="^" line="100" column="42" />
+        <mark key="." line="100" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/instagram.py" timestamp="1590053412199">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="15" column="69" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/git/pyblueprint/config/helpers.py" timestamp="1586349407151">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/mambaru.py" timestamp="1590053613106">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/configs.py" timestamp="1590053110056">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/utils.py" timestamp="1590054015669" />
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/travelgirls.py" timestamp="1590053465638">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" timestamp="1590054565362">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="22" />
+        <mark key="^" line="71" column="22" />
+        <mark key="." line="71" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -54,16 +107,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3VudGVyX2pwZyArPSAxCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlbmFtZSksICJhbHJlYWR5IGhhdmUgZmlsZW5hbWUge30iLmZvcm1hdChwYXRoKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWUgPSBOb25lCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmaWxlbmFtZSBpcyBOb25lOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLmpwZyIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAnaW1hZ2V7MDowNH0uanBnJy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLm1wNCIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAndmlkZW97MDowNH0ubXA0Jy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignZG8gbm90IGtub3cgaG93IHRvIGhhbmRsZSBwYXRoIFslc10uLi4nLCBwYXRoKQogICAgICAgICAgICAgICAgY29udGludWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBkZWYgc3VnZ2VzdF9maWxlbmFtZShzZWxmLCBzdWZmaXgpOgogICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
   </component>
@@ -77,7 +160,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
