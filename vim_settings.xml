@@ -11,6 +11,7 @@
         <entry>0</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,7 +147,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>45</text>
       </register>
     </registers>
   </component>
