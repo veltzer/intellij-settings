@@ -10,8 +10,9 @@
       <history-cmd>
         <entry>0</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>45</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -31,6 +32,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -39,11 +43,11 @@
       <file name="/start_script.py" timestamp="1586348387964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/endpoints/group_default.py" timestamp="1590053404194">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="70" column="10" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/endpoints/group_default.py" timestamp="1590062226248">
+        <mark key="[" line="68" column="44" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="41" />
       </file>
       <file name="$USER_HOME$/git/pyblueprint/pyblueprint/blueprint.py" timestamp="1586350163948">
         <mark key="'" line="18" column="17" />
@@ -64,11 +68,11 @@
         <mark key="^" line="100" column="42" />
         <mark key="." line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/instagram.py" timestamp="1590053412199">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="15" column="69" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/workers/instagram.py" timestamp="1590062352282">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="10" />
+        <mark key="." line="49" column="9" />
+        <mark key="^" line="49" column="10" />
       </file>
       <file name="$USER_HOME$/git/pyblueprint/config/helpers.py" timestamp="1586349407151">
         <mark key="[" line="9" column="11" />
@@ -94,60 +98,62 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" timestamp="1590054694857">
-        <mark key="[" line="70" column="63" />
-        <mark key="]" line="70" column="66" />
-        <mark key="^" line="70" column="66" />
-        <mark key="." line="70" column="65" />
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" timestamp="1590062258787">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="26" column="10" />
       </file>
     </filemarks>
     <jumps>
       <jump line="13" column="17" filename="$USER_HOME$/git/pyblueprint/pyblueprint/blueprint.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygic2l6ZSBvZiBsaXN0IGlzIFt7fV0iLmZvcm1hdChsZW4odXJsX3NldC51cmxzX2xpc3QpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3VudGVyX2pwZyArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3F1ZXJ5X2hhc2gnOiAnYmQwZDZkMTg0ZWVmZDRkMGNlNzAzNmMxMWFlNThlZDknLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygic2l6ZSBvZiBsaXN0IGlzIFt7fV0iLmZvcm1hdChsZW4odXJsX3NldC51cmxzX2xpc3QpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlbmFtZSksICJhbHJlYWR5IGhhdmUgZmlsZW5hbWUge30iLmZvcm1hdChwYXRoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygic2l6ZSBvZiBsaXN0IGlzIFt7fV0iLmZvcm1hdChsZW4odXJsX3NldC51cmxzX2xpc3RdKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWUgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImdvdCBbe31dIHVybHMiLmZvcm1hdChsZW4oc2VsZi51cmxzX2xpc3QpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaWxlbmFtZSBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLmpwZyIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAnaW1hZ2V7MDowNH0uanBnJy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLm1wNCIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAndmlkZW97MDowNH0ubXA0Jy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignZG8gbm90IGtub3cgaG93IHRvIGhhbmRsZSBwYXRoIFslc10uLi4nLCBwYXRoKQogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3F1ZXJ5X2lkJzogMTc4ODg0ODMzMjAwNTkxODIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZWYgc3VnZ2VzdF9maWxlbmFtZShzZWxmLCBzdWZmaXgpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlbmFtZSksICJhbHJlYWR5IGhhdmUgZmlsZW5hbWUge30iLmZvcm1hdChwYXRoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWUgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>45</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
