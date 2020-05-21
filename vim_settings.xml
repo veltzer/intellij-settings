@@ -93,11 +93,11 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" timestamp="1590054565362">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="22" />
-        <mark key="^" line="71" column="22" />
-        <mark key="." line="71" column="21" />
+      <file name="$USER_HOME$/git/pyscrapers/pyscrapers/core/urlset.py" timestamp="1590054694857">
+        <mark key="[" line="70" column="63" />
+        <mark key="]" line="70" column="66" />
+        <mark key="^" line="70" column="66" />
+        <mark key="." line="70" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -107,10 +107,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -119,31 +119,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3VudGVyX2pwZyArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlbmFtZSksICJhbHJlYWR5IGhhdmUgZmlsZW5hbWUge30iLmZvcm1hdChwYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vdCBvcy5wYXRoLmlzZmlsZShmaWxlbmFtZSksICJhbHJlYWR5IGhhdmUgZmlsZW5hbWUge30iLmZvcm1hdChwYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWUgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaWxlbmFtZSBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLmpwZyIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAnaW1hZ2V7MDowNH0uanBnJy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLm1wNCIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAndmlkZW97MDowNH0ubXA0Jy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignZG8gbm90IGtub3cgaG93IHRvIGhhbmRsZSBwYXRoIFslc10uLi4nLCBwYXRoKQogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaWxlbmFtZSBpcyBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLmpwZyIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAnaW1hZ2V7MDowNH0uanBnJy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgcGF0aC5lbmRzd2l0aCgiLm1wNCIpOgogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSAndmlkZW97MDowNH0ubXA0Jy5mb3JtYXQoY291bnRlcikKICAgICAgICAgICAgaWYgZmlsZW5hbWUgaXMgTm9uZToKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignZG8gbm90IGtub3cgaG93IHRvIGhhbmRsZSBwYXRoIFslc10uLi4nLCBwYXRoKQogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgc3VnZ2VzdF9maWxlbmFtZShzZWxmLCBzdWZmaXgpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBkZWYgc3VnZ2VzdF9maWxlbmFtZShzZWxmLCBzdWZmaXgpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
