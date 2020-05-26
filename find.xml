@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pymultigit'" />
-    <option name="defaultScopeName" value="Project 'pymultigit'" />
-    <option name="SEARCH_SCOPE" value="Project 'pymultigit'" />
+    <option name="customScope" value="Project 'pypathutil'" />
+    <option name="defaultScopeName" value="Project 'pypathutil'" />
+    <option name="SEARCH_SCOPE" value="Project 'pypathutil'" />
   </component>
 </application>
