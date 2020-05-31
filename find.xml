@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pytconf'" />
-    <option name="defaultScopeName" value="Project 'pytconf'" />
-    <option name="SEARCH_SCOPE" value="Project 'pytconf'" />
+    <option name="customScope" value="Project 'pyscrapers'" />
+    <option name="defaultScopeName" value="Project 'pyscrapers'" />
+    <option name="SEARCH_SCOPE" value="Project 'pyscrapers'" />
   </component>
 </application>
