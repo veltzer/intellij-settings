@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pysvgview'" />
-    <option name="defaultScopeName" value="Project 'pysvgview'" />
-    <option name="SEARCH_SCOPE" value="Project 'pysvgview'" />
+    <option name="customScope" value="Project 'pycontacts'" />
+    <option name="defaultScopeName" value="Project 'pycontacts'" />
+    <option name="SEARCH_SCOPE" value="Project 'pycontacts'" />
   </component>
 </application>
