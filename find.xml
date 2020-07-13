@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pyflexebs'" />
-    <option name="defaultScopeName" value="Project 'pyflexebs'" />
-    <option name="SEARCH_SCOPE" value="Project 'pyflexebs'" />
+    <option name="customScope" value="Project 'pypathutil'" />
+    <option name="defaultScopeName" value="Project 'pypathutil'" />
+    <option name="SEARCH_SCOPE" value="Project 'pypathutil'" />
   </component>
 </application>
