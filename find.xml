@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pyunique'" />
-    <option name="defaultScopeName" value="Project 'pyunique'" />
-    <option name="SEARCH_SCOPE" value="Project 'pyunique'" />
+    <option name="customScope" value="Project 'demos-python3'" />
+    <option name="defaultScopeName" value="Project 'demos-python3'" />
+    <option name="SEARCH_SCOPE" value="Project 'demos-python3'" />
   </component>
 </application>

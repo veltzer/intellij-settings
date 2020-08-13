@@ -29,6 +29,7 @@
       <list>
         <option value="PyQt5.QtCore.readyRead.connect" />
         <option value="PyQt5.QtCore.fileChanged.connect" />
+        <option value="src.examples.short.functions.function_order.foo" />
       </list>
     </option>
   </inspection_tool>
