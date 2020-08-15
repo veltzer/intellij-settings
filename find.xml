@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/examples/short/gtk/minimal.py'" />
-    <option name="defaultScopeName" value="File '.../src/examples/short/gtk/minimal.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/examples/short/gtk/minimal.py'" />
+    <option name="customScope" value="File '.../src/examples/long/dispy/hello_dispy.py'" />
+    <option name="defaultScopeName" value="File '.../src/examples/long/dispy/hello_dispy.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/examples/long/dispy/hello_dispy.py'" />
   </component>
 </application>
