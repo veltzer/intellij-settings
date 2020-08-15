@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/examples/short/filesystem/readlink.py'" />
-    <option name="defaultScopeName" value="File '.../src/examples/short/filesystem/readlink.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/examples/short/filesystem/readlink.py'" />
+    <option name="customScope" value="File '.../src/exercises/basic/digits_report/solution10.py'" />
+    <option name="defaultScopeName" value="File '.../src/exercises/basic/digits_report/solution10.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/exercises/basic/digits_report/solution10.py'" />
   </component>
 </application>
