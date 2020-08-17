@@ -41,6 +41,7 @@
         <option value="PyQt5.QtCore.readyRead.connect" />
         <option value="PyQt5.QtCore.fileChanged.connect" />
         <option value="src.examples.short.functions.function_order.foo" />
+        <option value="pyinotify.IN_CREATE" />
       </list>
     </option>
   </inspection_tool>
