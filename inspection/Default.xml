@@ -7,7 +7,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="8">
+        <list size="9">
           <item index="0" class="java.lang.String" itemvalue="googleapiclient" />
           <item index="1" class="java.lang.String" itemvalue="google" />
           <item index="2" class="java.lang.String" itemvalue="gdata" />
@@ -16,6 +16,7 @@
           <item index="5" class="java.lang.String" itemvalue="daemon" />
           <item index="6" class="java.lang.String" itemvalue="mysql" />
           <item index="7" class="java.lang.String" itemvalue="mysql.connector" />
+          <item index="8" class="java.lang.String" itemvalue="dialog" />
         </list>
       </value>
     </option>
