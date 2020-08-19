@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/examples/short/exception_handling/dont_show_traceback_excepthook.py'" />
-    <option name="defaultScopeName" value="File '.../src/examples/short/exception_handling/dont_show_traceback_excepthook.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/examples/short/exception_handling/dont_show_traceback_excepthook.py'" />
+    <option name="customScope" value="File '.../src/examples/short/systems_programming/pause.py'" />
+    <option name="defaultScopeName" value="File '.../src/examples/short/systems_programming/pause.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/examples/short/systems_programming/pause.py'" />
   </component>
 </application>
