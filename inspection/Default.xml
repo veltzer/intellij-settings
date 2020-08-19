@@ -43,6 +43,7 @@
         <option value="PyQt5.QtCore.fileChanged.connect" />
         <option value="src.examples.short.functions.function_order.foo" />
         <option value="pyinotify.IN_CREATE" />
+        <option value="src.examples.short.object_oriented.oo_private_1.MyClass.__private_variable" />
       </list>
     </option>
   </inspection_tool>
