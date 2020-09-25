@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pytubekit'" />
-    <option name="defaultScopeName" value="Project 'pytubekit'" />
-    <option name="SEARCH_SCOPE" value="Project 'pytubekit'" />
+    <option name="customScope" value="Project 'pytconf'" />
+    <option name="defaultScopeName" value="Project 'pytconf'" />
+    <option name="SEARCH_SCOPE" value="Project 'pytconf'" />
   </component>
 </application>
