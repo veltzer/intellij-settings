@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pydockerutils'" />
-    <option name="defaultScopeName" value="Project 'pydockerutils'" />
-    <option name="SEARCH_SCOPE" value="Project 'pydockerutils'" />
+    <option name="customScope" value="Project 'pydmt'" />
+    <option name="defaultScopeName" value="Project 'pydmt'" />
+    <option name="SEARCH_SCOPE" value="Project 'pydmt'" />
   </component>
 </application>
